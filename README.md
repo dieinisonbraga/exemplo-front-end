@@ -1,2 +1,8 @@
-# exemplo-front-end
-Código de exemplo do front-end consumindo de uma API externa
+# Meu Front
+
+Este pequeno projeto faz parte do material extra da Disciplina **Desenvolvimento Back-end Avançado e Arquitetura de Software** 
+
+---
+## Como executar
+
+Basta fazer o download do projeto e abrir o arquivo index.html no seu browser.
