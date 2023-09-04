@@ -1,5 +1,5 @@
 # Define a imagem base Alpine do nginx
-FROM nginx:alpine
+FROM nginx
 # O nginx é um servidor leve e de código fonte aberto
 # Como nossa aplicação irá consultar requisições HTTP, então usaremos uma imagem do Ngnix
 
