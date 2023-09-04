@@ -24,4 +24,4 @@ Uma vez criada a imagem, para executar o container basta executar, **como admini
 $ sudo docker run --rm -p 8080:80 front-store
 ```
 
-Uma vez executando, para acessar o front-end, basta abrir o [http://localhost:3000/#/](http://localhost:3000/#/) no navegador.
+Uma vez executando, para acessar o front-end, basta abrir o [http://localhost:8080/#/](http://localhost:8080/#/) no navegador.
