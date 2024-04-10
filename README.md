@@ -1,6 +1,6 @@
 # Meu Front
 
-Este pequeno projeto faz parte do material extra da Disciplina **Desenvolvimento Back End Avançado e Arquitetura de Software** 
+Este pequeno projeto faz parte do material extra da Disciplina **Desenvolvimento Back End Avançado** 
 
 ---
 ## Como executar em modo de desenvolvimento
